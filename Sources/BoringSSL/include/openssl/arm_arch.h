@@ -93,7 +93,7 @@
 #  elif	defined(__ARM_ARCH_4__)	|| defined(__ARM_ARCH_4T__)
 #   define __ARM_ARCH__ 4
 #  else
-#   error "unsupported ARM architecture"
+#   //error "unsupported ARM architecture"
 #  endif
 # endif
 #endif
